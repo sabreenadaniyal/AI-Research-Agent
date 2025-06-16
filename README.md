@@ -18,7 +18,7 @@ Built with 💖 by Sabreena – clear, accurate, and effortlessly intelligent.
 ## 🛠️ Tech Stack
 
 - Python 3.11+
-- [Streamlit](https://streamlit.io/https://ai-research-agent-fdy5huamyjdzvvqrwsulgn.streamlit.app/)
+- [Streamlit](https://ai-research-agent-fdy5huamyjdzvvqrwsulgn.streamlit.app/)
 - Gemini (OpenAI-compatible)
 
 ---
